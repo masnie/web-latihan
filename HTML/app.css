@@ -1,0 +1,10 @@
+* {
+    background-color: azure;
+}
+h1, p {
+    text-align: justify;
+}
+nav, span {
+    text-align: left;
+    
+}
