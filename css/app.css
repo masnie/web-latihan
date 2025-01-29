@@ -1,7 +1,13 @@
+body {
+    background-color: beige;
+    margin-left: 3%;
+    margin-right: 61.8%;
+}
+
 h1, h2 {
     background-color: bisque;
-    text-align: left;
+    text-align: justify;
 }
-p {
+p, ol {
     text-align: justify;
 }
