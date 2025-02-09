@@ -11,3 +11,21 @@ p {
     font-size: large;
 }
 
+/* contoh untuk selector class */
+
+.red:hover {
+    color: red;
+}
+.ijo {
+    color: green;
+}
+.biru {
+    color: blue;
+}
+.orange {
+    color: orange;
+}
+
+div p {
+    font-family: 'Courier New', Courier, monospace;
+}
